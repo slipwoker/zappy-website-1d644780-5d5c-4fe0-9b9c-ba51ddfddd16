@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את הקסם של עוגיות ביתיות להזמנה ועוגות בעבודת יד מאהבה. כל פיסה מכילה טעם אותנטי וטריות מובטחת. הזמינו עכשיו ותתפנקו!
+
+### תפריט
+https://example.com/menu
+עיינו במגוון העשיר שלנו: עוגיות ביתיות להזמנה, עוגות מעוצבות לאירועים ומתוקים בריאים. כל מוצר נאפה טרי במיוחד בשבילכם!
+
+### אריזה ומשלוח
+https://example.com/packaging-delivery
+כל הזמנה מגיעה באריזה יפהפייה ומשלוח מהיר עד הבית. עוגות ביתיות לאירועים משפחתיים ועוגיות ארוזות בקפידה. פרטים מלאים כאן!
+
+### צור קשר
+https://example.com/contact
+מעוניינים בעוגיות ביתיות להזמנה או עוגה מותאמת אישית? צרו קשר עכשיו ונתאים לכם את המתוק המושלם לכל אירוע. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
